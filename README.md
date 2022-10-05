@@ -1,3 +1,30 @@
+
+<h1>Performance Metrics</h1>
+<div>
+<p style="background-color:green">Normal SVG Rendering - 4 (fps) &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp  &nbsp &nbsp  &nbsp &nbsp  &nbsp &nbsp  &nbsp &nbsp  &nbsp &nbsp   &nbsp &nbsp  &nbsp &nbsp  &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp svg2path rendering - 15(fps)
+
+</div>
+<div>
+<img width="48%" alt="normal-svg-rendering" src="https://user-images.githubusercontent.com/62535697/194137979-65e0c89b-61c2-439e-b8d8-70b62bdb6b01.png">
+
+
+<img width="48%" alt="svg2path-rendering" src="https://user-images.githubusercontent.com/62535697/194138537-ae2407f1-5f23-43ad-91ee-088bb52048d8.png">
+
+</div>
+
+
+<h2>Result: </h2>
+
+<h3>3.75x times faster than normal svg rendering method   </h3>
+
+
+
+
+
+
+
+
+
 # samplesvg
 
 A new Flutter project.
