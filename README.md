@@ -1,4 +1,7 @@
 
+
+    
+
 <h1>Performance Metrics</h1>
 <div>
 <p style="background-color:green">Normal SVG Rendering - 4 (fps) &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp  &nbsp &nbsp  &nbsp &nbsp  &nbsp &nbsp  &nbsp &nbsp  &nbsp &nbsp   &nbsp &nbsp  &nbsp &nbsp  &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp svg2path rendering - 15(fps)
@@ -17,13 +20,11 @@
 
 <h3>3.75x times faster than normal svg rendering method   </h3>
 <br>
-<br>
-<br>
-<br>
 <h3>Normal Svg Rendering performance on mobile Raster max  rendering 0.3 fps and Ui max 13.8 fps</h3>
 
+![photo_6192503643333309053_y](https://user-images.githubusercontent.com/62535697/194146289-b1e31275-3f79-4c42-bdf4-cc4f43bd0dea.png)
 
-![photo_6192503643333309053_y](https://user-images.githubusercontent.com/62535697/194142676-24140f46-6b6a-4e74-abe3-0b9e8089ecee.jpg)
+
 
 <h3> Svg2Path  Rendering performance on mobile Raster max  rendering 8.3 fps and Ui max 24.8 fps</h3>
 
