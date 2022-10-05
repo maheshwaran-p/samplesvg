@@ -16,7 +16,19 @@
 <h2>Result: </h2>
 
 <h3>3.75x times faster than normal svg rendering method   </h3>
+<br>
+<br>
+<br>
+<br>
+<h3>Normal Svg Rendering performance on mobile Raster max  rendering 0.3 fps and Ui max 13.8 fps</h3>
 
+
+![photo_6192503643333309053_y](https://user-images.githubusercontent.com/62535697/194142676-24140f46-6b6a-4e74-abe3-0b9e8089ecee.jpg)
+
+<h3> Svg2Path  Rendering performance on mobile Raster max  rendering 8.3 fps and Ui max 24.8 fps</h3>
+
+
+![photo_6192503643333309054_y](https://user-images.githubusercontent.com/62535697/194142698-216f5c19-43e3-41f4-8f38-6fb2acb56b3c.jpg)
 
 
 
