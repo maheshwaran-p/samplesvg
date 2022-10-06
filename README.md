@@ -1,5 +1,8 @@
 
-
+    <div id='test1' style="background-color: transparent; width: 9%; height: 6%; margin-left: 45%;">
+        <object cursor: pointer; id='sponsor' style="pointer-events: none; cursor: pointer;
+         " width="100%" height="100%" type="image/svg+xml" data="buy-coffee-yellow.svg"></object>
+    </div>
     
 
 <h1>Performance Metrics</h1>
@@ -30,8 +33,6 @@
 
 
 ![photo_6192503643333309054_y](https://user-images.githubusercontent.com/62535697/194142698-216f5c19-43e3-41f4-8f38-6fb2acb56b3c.jpg)
-
-
 
 
 
