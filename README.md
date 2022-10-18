@@ -2,7 +2,7 @@
 
 <h1>Performance Metrics</h1>
 <div>
-<p style="background-color:green">Normal SVG Rendering - 4 (fps)  &nbsp&nbsp &nbsp &nbsp  &nbsp &nbsp  &nbsp &nbsp  &nbsp &nbsp  &nbsp &nbsp  &nbsp &nbsp   &nbsp &nbsp  &nbsp &nbsp  &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp svg2path Rendering - 15(fps)
+<p style="background-color:green">Normal SVG Rendering renders the svg in 4 FPS , But svg2path Rendering renders a svg in 15 FPS. Here I just compared with single svg list of svg can create the huge difference . 
 
 </div>
 <div>
