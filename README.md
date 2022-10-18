@@ -14,7 +14,7 @@
 </div>
 
 <p>
-on a mobile phone with the Snapdragon 626 CPU, it takes 34 ms for Flutter to rasterize the preceding SVG image in a 64¡Á64 area. Therefore, one SVG image can completely prevent applications from running smoothly at 60 frames per second (fps). During a test, this rasterization process on an iPhone X took 8 ms to complete, and only two SVG images could be displayed smoothly.</p>
+On a mobile phone with the Snapdragon 626 CPU, it takes 34 ms for Flutter to rasterize the preceding SVG image in a 64¡Á64 area. Therefore, one SVG image can completely prevent applications from running smoothly at 60 frames per second (fps). During a test, this rasterization process on an iPhone X took 8 ms to complete, and only two SVG images could be displayed smoothly.</p>
 
 
 <h2>Result: </h2>
