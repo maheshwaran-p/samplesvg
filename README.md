@@ -17,10 +17,10 @@
 <h2>Result: </h2>
 
 <h3>3.75x times faster than normal svg rendering method   </h3>
-
+<!-- 
  <a href="https://www.buymeacoffee.com/mpmahesh">
 <img  width="35%" height="3%" alt="svg2path-rendering" src="https://user-images.githubusercontent.com/62535697/194220498-98eb404d-1c6c-438a-b739-8eba695161b0.png">
-
+ -->
 
 </a>
 <h3>Normal Svg Rendering performance on mobile Raster max  rendering 0.3 fps and Ui max 13.8 fps</h3>
