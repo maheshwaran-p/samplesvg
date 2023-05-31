@@ -7,12 +7,12 @@
 </ol> 
 <h2>Simple trick to use png as flutter code </h2>
 <ol>
-  <li> use this site to download png images (png images free to download) --------------> https://www.flaticon.com/search?word=gun</li>
-  <li> use this site to convert png to svg --------------> https://convertio.co/png-svg/</li>
-  <li>use this site to convert svg to flutter -----------> https://svg2widget.web.app</li>
+  <li> use this site to download png images (png images free to download) ------> https://www.flaticon.com/search?word=gun</li>
+  <li> use this site to convert png to svg -----> https://convertio.co/png-svg/</li>
+  <li>use this site to convert svg to flutter ----> https://svg2widget.web.app</li>
  <p> caution while using this trick some times (https://svg2widget.web.app) tool will provide the code with
  transparent color  but you can change the color .
-check the tool provided code  and change the color as you want . (Paint()..color = Colors.black) <------ edit this line to change the svg color)</p>
+check the tool provided code  and change the color as you want . (Paint()..color = Colors.black) <------ edit this line in tool provided code to change the svg color)</p>
 </ol> 
 <h1>Performance Metrics</h1>
 <div>
