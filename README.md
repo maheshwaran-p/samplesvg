@@ -1,5 +1,19 @@
-
-
+<h1>How to Use </h1>
+<ol>
+  <li>Download any svg and goto svg2flutter tool (https://svg2widget.web.app/) to convert your svg as flutter code</li>
+   <li>Then Choose svg from , after this action tool will provide you flutter code for your choosen svg .</li>
+  <li>Come back here with tool  provided code . Then you can use the tool provided code like this example/sample project flow. </li>
+  <li>Milk</li>
+</ol> 
+<h2>Simple trick to use png as flutter code </h2>
+<ol>
+  <li> use this site to download png images (png images free to download) --------------> https://www.flaticon.com/search?word=gun</li>
+  <li> use this site to convert png to svg --------------> https://convertio.co/png-svg/</li>
+  <li>use this site to convert svg to flutter -----------> https://svg2widget.web.app</li>
+ <p> caution while using this trick some times (https://svg2widget.web.app) tool will provide the code with
+ transparent color  but you can change the color .
+check the tool provided code  and chnge the color as you want . (Paint()..color = Colors.black) <------ edit this line to change the svg color)</p>
+</ol> 
 <h1>Performance Metrics</h1>
 <div>
 <p style="background-color:green">Normal SVG Rendering renders the svg in 4 FPS , But svg2path Rendering renders a svg in 15 FPS. Here I just compared with single svg . List of svg can create the huge difference . <br> For an instance , while using the svg in list view builder users can perceive the frame drop issue . 
