@@ -14,7 +14,7 @@
  transparent color  but no worries  you can change the color .
 check the tool provided code  and change the color as you want . (Paint()..color = Colors.black) <------ edit this line in tool provided code to change the svg color) .</p>
 </ol> 
-<h3> feel free to your suggestions or doubts here ---> https://github.com/maheshwaran-p/samplesvg/issues/4 .</h3>
+<h3> feel free to share your suggestions or doubts here ---> https://github.com/maheshwaran-p/samplesvg/issues/4 .</h3>
 <h3>Contact Us using this mail (hiphopofficialteam@gmail.com) for any queries </h3>
 <h1>Performance Metrics</h1>
 <div>
