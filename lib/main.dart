@@ -7,6 +7,16 @@ void main() {
   runApp(const MyApp());
 }
 
+// download svg and goto svg2flutter tool (https://svg2widget.web.app/) convert your svg as flutter code
+// and come back here with tool  provided code . Then you can use the tool provided code as below code flow .
+
+// simple trick to use png as flutter code .
+//use this site to download png images --------------> https://www.flaticon.com/search?word=gun
+// use this site to convert png to svg --------------> https://convertio.co/png-svg/
+// use this site to convert svg to flutter -----------> https://svg2widget.web.app
+// caution while using this trick some times (https://svg2widget.web.app) tool will provide the code with
+// transparent color  but you can the color .
+// check the tool provided code  and chnge the color as you want . (Paint()..color = Colors.black);)
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
   @override
