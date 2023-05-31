@@ -1,7 +1,7 @@
 <h1>How to Use </h1>
 <ol>
   <li>Download any svg and goto svg2flutter tool (https://svg2widget.web.app/) to convert your svg as flutter code</li>
-   <li>Then Choose svg from , after this action tool will provide you flutter code for your choosen svg .</li>
+   <li>Then Choose svg from your system , after this action tool will provide you flutter code for your choosen svg .</li>
   <li>Come back here with tool  provided code . Then you can use the tool provided code like this example/sample project flow. </li>
   <li>Milk</li>
 </ol> 
@@ -12,7 +12,7 @@
   <li>use this site to convert svg to flutter -----------> https://svg2widget.web.app</li>
  <p> caution while using this trick some times (https://svg2widget.web.app) tool will provide the code with
  transparent color  but you can change the color .
-check the tool provided code  and chnge the color as you want . (Paint()..color = Colors.black) <------ edit this line to change the svg color)</p>
+check the tool provided code  and change the color as you want . (Paint()..color = Colors.black) <------ edit this line to change the svg color)</p>
 </ol> 
 <h1>Performance Metrics</h1>
 <div>
