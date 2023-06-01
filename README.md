@@ -16,7 +16,7 @@
 check the tool provided code  and change the color as you want . (Paint()..color = Colors.black) <------ edit this line in tool provided code to change the svg color) .</p>
 </ol> 
 <h3> feel free to share your suggestions or doubts here ---> https://github.com/maheshwaran-p/samplesvg/issues/4 .</h3>
-<h3>Contact Us using this mail <p><a href="mailto:hiphopofficialteam@gmail.com">hiphopofficialteam@gmail.com</a></p>  for any queries </h3>
+<h3>Contact Us using this mail </h3> <p><a href="mailto:hiphopofficialteam@gmail.com">hiphopofficialteam@gmail.com</a></p>
 <h1>Performance Metrics</h1>
 <div>
 <p style="background-color:green">Normal SVG Rendering renders the svg in 4 FPS , But svg2path Rendering renders a svg in 15 FPS. Here I just compared with single svg . List of svg can create the huge difference . <br> For an instance , while using the svg in list view builder users can perceive the frame drop issue . 
